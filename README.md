@@ -1,6 +1,6 @@
-#Methodology of Programming Project
+##Methodology of Programming Project
 
-## Project Structure
+###Project Structure
 
 * PURPOSE - The Check Register Application has been created to assist in managing personal expenditures for individuals.  The application consists of the following four functions:
 
